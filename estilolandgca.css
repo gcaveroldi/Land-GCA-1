@@ -73,27 +73,6 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: white;
-    }
-
-.conteudo-principal-escrito-botao {
-    background-color: white;
-    width: 140px;
-    height: 50px;
-    border: none;
-    border-radius: 20px;
-    font-family: 'Sarala', sans-serif;
-    font-weight: 400;
-    font-size: 14px;
-    color: black;
-    box-shadow: 2px 2px 5px rgba( 0, 0, 0, 0.400);
-    box-sizing: border-box;
-    transform: translate(-10px, -10px);
-}
-
-.conteudo-principal-escrito-botao:hover {
-    background-color: rgba(236, 214, 196, 0.53);
-    border: 2px solid white;
-    transform: translate(-3px, -3px);
 }
 
  .conteudo-principal-imagem {
