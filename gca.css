@@ -73,6 +73,7 @@ body {
 }
 
 .foto {
+    position: relative;
     width: 250px;
     margin: 50px;
     display: inline-flex; 
