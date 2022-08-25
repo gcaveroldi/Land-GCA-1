@@ -80,6 +80,7 @@ body {
  }
 
  .conteudo-secundario {
+    border-top: 1.4px solid white;
     display: flex;
     flex-direction: column;
     align-items: center;

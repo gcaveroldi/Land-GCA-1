@@ -73,14 +73,22 @@ body {
 }
 
 .foto {
-    position: relative;
-    width: 250px;
+    float: right;
+    width: 33.33%;
+}
+
+.fotos {
+    display: flex;
+    width: 1450px;
     margin: 50px;
-    display: inline-flex; 
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 5px;
-    box-sizing: border-box;
+}
+
+.profissionais {
+    font-family: 'Sarala', sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: justify;
 }
 
 .redessociais {
